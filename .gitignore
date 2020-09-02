@@ -1,0 +1,7 @@
+# Mac files
+.DS_Store
+
+# Dependency directories
+/node_modules
+selling-sunset.code-workspace
+package-lock.json
